@@ -1,4 +1,17 @@
-h1 {
-  color: red;
+h2 {
+  color: #5e34eb;
   text-align: center;
+}
+div {
+    background-color:teal;
+    width:500px;
+    height:100px;
+    text-align:center;
+    margin:200px;
+    padding:250px;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    border: 2px solid yellow;
+
 }
